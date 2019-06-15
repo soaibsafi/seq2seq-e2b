@@ -1,0 +1,257 @@
+tell me which you want .	তোর কোনটা দরকার আমাকে বল ।
+you are younger than me .	তুমি আমার থেকে ছোট ।
+i am in the mountains .	আমি পাহাড়ে আছি ।
+you are really embarrassed .	তুমি সত্যিই লজ্জিত ।
+how old is your mother ?	আপনার মায়ের বয়স কত ?
+I don't agree with you .	আমি তোমার সাথে একমত নই ।
+I received your letter .	আমি তোর চিঠি পেয়েছি ।
+He went to the dentist .	সে দাঁতের ডাক্তারের কাছে গিয়েছিলো ।
+What are you here for ?	তুই এখানে কি জন্য এসেছিস ?
+What does your son do ?	তোর ছেলে কি করে ?
+Can you play the piano ?	আপনি পিয়ানো বাজাতে পারিস ?
+Do you have any others ?	তোর কাছে কি আর কিছু আছে ?
+She's my older sister .	সে আমার বড়ো বোন ।
+The experiment failed .	গবেষণাটি ব্যর্থ হলো ।
+You're not paying attention .	তুমি মনোযোগ দিচ্ছো না ।
+Tom's hiding something .	টম কিছু লুকাচ্ছে ।
+Have you ever eaten raw fish ?	তুই কখনো কাঁচা মাছ খেয়েছিস ?
+Democracy encourages people .	গণতন্ত্র মানুষকে অনুপ্রাণিত করে ।
+I heard Tom was in trouble .	আমি শুনলাম টম ঝামেলায় পরেছিল ।
+You're so impatient .	তুমি বড্ড অধৈর্য্য ।
+Have you ever been to Dhaka ?	আপনি কি কখনো ঢাকা গেছেন ?
+He is an experienced master .	তিনি একজন অভিজ্ঞ শিক্ষক ।
+Have you ever ridden a horse ?	তুই কখনো ঘোড়ায় চড়েছিস ?
+I don't use Twitter anymore .	আমি আর টুইটার ব্যবহার করি না ।
+Some people started laughing .	অনেকে হাসতে শুরু করলো ।
+Only one language is never enough .	মাত্র একটি ভাষা যথেষ্ট নয় ।
+That's because you're a girl .	তার কারণ আপনি একজন মেয়ে ।
+He is a very important person .	উনি একজন অতি গুরুত্বপূর্ণ ব্যক্তি ।
+When does the next car leave ?	পরের গাড়িটি কখন ছাড়বে ?
+When does the next train leave ?	পরের ট্রেনটি কখন ছাড়বে ?
+How many days will you stay ?	আপনারা কত দিন থাকবেন ?
+I am looking for a good train .	আমি একটা ভাল ট্রেন খুঁজছি ।
+I don't go to work on Fridays .	আমি শুক্রবার করে কাজে যাই না ।
+I'm very good at swimming .	আমি সাঁতারে খুব ভালো ।
+He always keeps his promises .	সে সবসময় তার কথা রাখে ।
+He certainly is good-looking .	সে সত্যিই খুব সুদর্শন ।
+You can eat anything you want .	তোর যেটা ইচ্ছে হয় সেটা খেতে পারিস ।
+I am going to America .	আমি আমেরিকা যাচ্ছি ।
+Is this the way to home ?	এটা কি বাড়িতে যাওয়ার রাস্তা ?
+Please wait till I comes back .	আমি আসা পর্যন্ত দয়া করে অপেক্ষা করুন ।
+Will you look after his baggage ?	তার মালপত্রটা একটু দেখবেন ?
+I hardly ever keeps his word .	আমি খুব কমই ওনার কথা রাখেন ।
+I is a bit shorter than Mary .	আমি মেরির থেকে একটু বেঁটে ।
+I left without saying a word .	আমি কোনো কথা না বলে চলে গেল ।
+He likes chocolate cake a lot .	সে চকলেট কেক খুব পছন্দ করে ।
+You tried to keep from smiling .	তুমি না হাসার চেষ্টা করছিল ।
+Your hobby is listening to music .	গান শোনা তোমার নেশা ।
+I can understand your language .	আমি তোমার ভাষা বুঝি ।
+You tried to keep your chin up .	তুমি তোমার মুখ উঁচু রাখার চেষ্টা করেছিল ।
+Your father is out .	তোমার বাবা বাইরে ।
+Your father smokes .	তোমার বাবা ধূমপান করে ।
+Your glass is full .	তোমার গ্লাসটি ভরতি ।
+He can beat you .	সে তোমাকে মারতে পারে ।
+You don't get it .	তুমি বুঝতে পারছ না ।
+He doesn't get it .	সে ঠিক বুঝতে পারছে না ।
+He has a cough .	তার কাশি হয়েছে ।
+He likes noodles .	সে নুডলস পছন্দ করে ।
+You prefer black .	তুমি কালো পছন্দ করি ।
+You said nothing .	তুমি কিছুই বলনি ।
+He studies abroad .	উনি বিদেশে পড়াশুনা করি ।
+He was coughing .	তিনি কাশছিলেন ।
+He was dreaming .	তিনি স্বপ্ন দেখছিলেন ।
+You wasn't alone .	তুমি একলা ছিলে না ।
+You went on foot .	তুমি পায়ে হেঁটে গেছিলে ।
+He is outside .	সে বাইরে আছে ।
+Are those yours ?	ওইগুলো কি তোর ?
+Can you try it on ?	তুমি কি এটা পরে দেখতে পার ?
+Can you work here ?	তুমি কি এখানে কাজ করতে পার ?
+Give me a kiss .	আমাকে একটা চুমু দাও ।
+You couldn't walk .	তুমি হাঁটতে পারোনি ।
+You deserved that .	তোমার সেটাই প্রাপ্য ছিলো ।
+You didn't forget .	তুমি ভুলোনি ।
+You didn't listen .	তুমি শুননি ।
+You didn't notice .	তুমি লক্ষ্য করনি ।
+You didn't notice .	তুমি খেয়াল করনি ।
+He is a doctor .	ইনি একজন ডাক্তার ।
+There's no salt .	এখানে নুন নেই ।
+This is my wife .	এই আমার স্ত্রী ।
+She has seen it .	সে ওটা দেখেছে ।
+He walks .	উনি হাঁটেন ।
+He walks .	সে হাঁটে ।
+He walks .	ও হাঁটে ।
+They're different .	তারা অন্যরকম ।
+They're here, too .	তারাও এখানে আছে ।
+They're screaming .	তারা চিৎকার করছে ।
+He is screaming .	সে চেঁচাচ্ছে ।
+They've done that .	তারা সেটা করেছে ।
+They've found Tom .	তারা টমকে খুজে পেয়েছে ।
+They've seen them .	তারা তাদেরকে দেখেছে ।
+Do they live here ?	তারা কি এখানে থাকো ?
+How tall is he ?	সে কতটা লম্বা ?
+He agree with you .	সে আপনার সাথে একমত ।
+He agree with you .	সে তোর সাথে একমত ।
+He is not thirsty .	তার তৃষ্ণা পায় নি ।
+He is not thirsty .	তার তেষ্টা পায়নি ।
+He is only joking .	সে খালি মজা করছে ।
+He knows your name .	আমি আপনাদের নাম জানি ।
+He was astonished .	আমি আশ্চর্যান্বিত হয়ে গেছিলাম ।
+He is out .	সে বাইরে ।
+You smokes .	তুমি ধূমপান করে ।
+Your glass is full .	তোমার গ্লাসটি ভরতি ।
+You are out .	আপনি বাইরে ।
+His stomach hurts .	তারপেট ব্যাথা করছে ।
+What's his name ?	তার নাম কি ?
+He is a doctor .	সে একজন ডাক্তার ।
+He may go there .	সে ওখানে যেতে পারে ।
+He is screaming .	তিনি চিৎকার করছেন ।
+He is taller than Mary .	সে মেরির থেকে লম্বা ।
+He likes reading books .	সে বই পড়তে ভালোবাসে ।
+They makes great burgers .	তারা দারুন বার্গার বানাতে পারে ।
+They now lives in Boston .	তারা এখন বস্টনে থাকে ।
+He reads lots of books .	সে প্রচুর বই পড়ে ।
+You resigned in October .	তুমি অক্টোবরে পদত্যাগ করেছ ।
+He seldom eats at home .	সে কমই বাড়িতে খায় ।
+You still live at home .	তুমি এখনো বাড়িতেই থাকো ।
+You used to play guitar .	তুমি গীটার বাজাতে ।
+He took a lot of pictures .	সে অনেক ছবি তুলেছে ।
+He was at a movie theater .	সে একটা সিনেমা হলে ছিল ।
+You will not tolerate this .	আপনি এটা বরদাস্ত কররেন না ।
+YOu'll stay here until ten .	আপনি এখানে দশটা অবধি থাকবেন ।
+He is also learning French .	সেও ফরাসি শিখছি ।
+You're going to take a bath .	তুমি স্নান করতে যাবে ।
+He is not feeling too well .	তার শরীর খুব একটা ভালো লাগছে না ।
+They're playing football now .	তারা এখন ফুটবল খেলছি ।
+You're really happy for Tom .	আপনি টমের জন্য খুব খুশি ।
+Was the museum open yesterday ?	জাদুঘরটা কি গতকাল খোলা ছিলো ?
+Is there any mail for him ?	আপনার জন্য কোনো ডাক আছে ?
+It is unfortunately false .	দুর্ভাগ্যবশতভাবে এটা মিথ্যা ।
+He was raised in France .	উনি ফ্রান্সে বড়ো হয়েছেন ।
+He was raised in France .	ও ফ্রান্সে বড়ো হয়েছে ।
+You have twin daughters .	আপনাদের দুটো জমজ মেয়ে আছে ।
+This is driving him crazy .	এটা তাকে পাগল করে দিচ্ছে ।
+She kept his eyes closed .	সে তার চোখ বন্ধ রেখেছিল ।
+What's his home address ?	তার বাড়ির ঠিকানাটা কী ?
+Are they eating out tonight ?	তারা কি আজ বাইরে খাবো ?
+He can eat all you want .	তার যত ইচ্ছে তত খেতে পারে ।
+I will be ten next April .	আমি পরের এপ্রিলে দশ বছরের হবে ।
+You're sleeping like a baby .	তুমি বাচ্চাদের মত ঘুমাচ্ছ ।
+You accepted his invitation .	তুমি তার আমন্ত্রণ গ্রহণ করলে ।
+He was momentarily blinded .	সে ক্ষণিকের জন্য অন্ধ হয়ে গেছিলো ।
+You're not very good at this .	তুমি এতে খুব একটা ভালো নও ।
+You live in a small village .	আপনি একট ছোট গ্রামে থাকেন ।
+You really don't want to go .	b মনে হয় আপনারা দুজনেই টমকে চেনেন ।
+I had a bitter experience .	আমার এক তিক্ত অভিজ্ঞতা হয়েছিলো ।
+I lose my temper easily .	আমি সহজেই আমার মাথা গরম করে ফেলি ।
+He can't attend the meeting .	সে সভাতে উপস্থিত থাকতে পারবে না ।
+He doesn't know what you mean .	সে জানেনা আপনি কি বোঝাতে চাইছেন ।
+He is happy to see you again .	তোমাকে আবার দেখে সে খুশি হয়েছে ।
+The library is to the right .	লাইব্রেরিটা ডানদিকে ।
+The rain continued all evening .	বৃষ্টিটা সারাবিকেল ধরে চলেছিল ।
+He is always complaining .	সে সবসময় অভিযোগ করে ।
+He must go to the dentist .	তার দাঁতের ডাক্তারের কাছে যাওয়া উচিৎ ।
+He asked Tom where he'd gone .	সে টমকে জিজ্ঞাসা করল যে সে কোথায় গেছিলো ।
+He believes Tom is doing well .	তার মনে হয় টম ভালোই আছে ।
+Let's find out where he is .	সে কোথায় আছে খোঁজা যাক ।
+Let's see what he is up to .	দেখা যাক সে কি করছে ।
+I didn't want that to happen .	আমি চাইনি ওটা ঘটুক ।
+I don't feel like eating then .	আমার তখন খেতে ইচ্ছে করছে না ।
+I don't like to drink tea .	আমার চা খেতে ভালো লাগে না ।
+I don't use Twitter anymore .	আমি আর টুইটার ব্যবহার করি না ।
+I don't want to be like this .	আমি এইরকম হতে চাই না ।
+I found the magazine interesting .	আমার ম্যাগাজিনটা আকর্ষণীয় বলে মনে হয়েছিল ।
+I have a one-year contract .	আমার কাছে এক বছরের চুক্তি আছে ।
+I never listen to him anyway .	আমি এমনিতেও কখনও তার কথা শুনি না ।
+I only speak English with Tom .	আমি টমের সঙ্গে খালি ইংরাজি ভাষায় কথা বলি ।
+I only speak a little English .	আমি খালি একটু ইংরাজি ভাষায় কথা বলি ।
+I used to swim in this pond .	আমি এই পুকুরে সাঁতার কাটতাম ।
+I'd like to book my ticket .	আমি আমার টিকিটটি বুক করতে চাই ।
+I'd like to change my school .	আমি আমার স্কুলটি পালটাতে চাই ।
+I'll certainly go tomorrow .	আমি নিশ্চই আগামীকাল যাবো ।
+I'm catching the 11:00 bus .	আমি ১১ঃ০০টার বাসটা ধরতে যাচ্ছি ।
+I'm proud of how I acted .	আমি যে ভাবে ব্যবহার করেছি তাতে আমি গর্বিত ।
+I'm sorry I kept him waiting .	আমাকে ক্ষমা করবেন আমি তাহাকে অপেক্ষা করিয়ে রেখেছিলাম ।
+I'm sorry I kept him waiting .	আমাকে ক্ষমা করবে আমি তাকে অপেক্ষা করিয়ে রেখেছিলাম ।
+I'm sorry, I can stay long .	আমায় ক্ষমা করবেন, আমি বেশিক্ষণ থাকতে পারবো ।
+I'm starting to learn English . 	আমি ইংরাজি শেখা শুরু করছি ।
+It was dark under the table . 	টেবিলের নিচে অন্ধকার ছিল ।
+We get together once a year .	আমরা বছরে একবার করে একত্রিত হই ।
+We have to move very slowly .	আমাদেরকে খুব ধীরে চলতে হবে ।
+We traveled in North America .	আমরা উত্তর আমেরিকাতে ঘুরলাম ।
+What time does the train leave ?	ট্রেনটা কটার সময় ছাড়ে ?
+What's this called in English ?	ইংরেজিতে এটাকে কী বলে ?
+When does the next train leave ?	পরের ট্রেনটি কখন ছাড়বে ?
+He is looking for a good hotel .	সে একটা ভাল হোটেল খুঁজছে ।
+I couldn't move my left foot .	আমি আমার নাম পাটা নাড়াতে পারিনি ।
+I don't go to work on Fridays .	আমি শুক্রবার করে কাজে যাই না ।
+I found that article interesting .	আমার ওই আর্টিকেলটা আকর্ষণীয় বলে মনে হয়েছিল ।
+I got on the bus for London .	আমি লন্ডনে যাওয়ার বাসে উঠেছিলাম ।
+I haven't done this for months .	আমি এটা অনেক মাস ধরে করিনি ।
+I just don't know what to say .	আমি জানিনা ঠিক কি বলবো ।
+I learned to live without you .	আমি তোমাকে ছাড়া বাঁচতে শিখেছি ।
+He like reading mystery novels .	তার রহস্য উপন্যাস পড়তে ভালো লাগে ।
+She want to be more independent .	সে আরও স্বাধীন হতে চায় ।
+I want to eat Chinese food .	আমি চাইনিজ খাবার খেতে চাই ।
+What time does the bus leave ?	বাসটা কটার সময় ছাড়ে ?
+When do you usually go to school ?	আপনি সাধারণত কটার সময় স্কুলে যান ?
+When do you usually go to school ?	তুমি সাধারণত কটার সময় স্কুলে যাও ?
+Where are you going on Sunday ?	রবিবার আপনি কোথায় যাচ্ছেন ?
+Where are you going on Sunday ?	রবিবার তুমি কোথায় যাচ্ছো ?
+Where can I buy that book ?	আমি ওই বইটা কোথা থেকে কিনতে পারব ?
+Why aren't you coming with them ?	তাদের সাথে আসছেন না কেন ?
+Why aren't you coming with them ?	তাদের সাথে আসছো না কেন ?
+Would you like to go outside ?	আপনি কি বাইরে যাবেন ?
+Would you like to go outside ?	আপনারা কি বাইরে যাবেন ?
+Would you like to go outside ?	তুমি কি বাইরে যাবে ?
+Would you like to go outside ?	তোমরা কি বাইরে যাবে ?
+You can't eat anything you want . 	আপনার যেটা ইচ্ছে হয় সেটা খেতে পারেন না ।
+You can't eat anything you want .	তোমার যেটা ইচ্ছে হয় সেটা খেতে পারো না ।
+Please show me the red shirt .	আমাকে একটু লাল জামাটা দেখাবেন ।
+Please wait till I comes back .	আমি আসা পর্যন্ত দয়া করে অপেক্ষা করুন ।
+He can't say whatever he wants .	ওনার যা ইচ্ছে উনি বলতে পারেন না ।
+She can't say whatever she wants .	ওর যা ইচ্ছে ও বলতে পারে না ।
+She can't say whatever she wants .	তার যা ইচ্ছে সে বলতে পারে না ।
+She can say whatever she wants .	তাঁর যা ইচ্ছে তিনি বলতে পারেন না ।
+Someday you'll run like the wind .	কোনো একদিন তুমি হাওয়ার মত দৌড়াবে ।
+English is her native language .	ইংরেজি তাঁর মাতৃভাষা ।
+English is her native language .	ইংরেজি তার মাতৃভাষা ।
+French is her native language .	ফরাসি ওনার মাতৃভাষা ।
+Don't speak English in the class . 	ক্লাসে ইংরেজিতে কথা বলবে না ।
+French is not my mother tongue .	ফরাসি আমার মাতৃভাষা নয় ।
+Even I was somewhat impressed .	এমনকি আমিও কিছুটা প্রভাবিত হয়েছিল ।
+Finish that as soon as possible .	যত তাড়াতাড়ি সম্ভব ওটা শেষ করুন ।
+Finish that as soon as possible .	যত তাড়াতাড়ি সম্ভব ওটা শেষ কর ।
+English isn't difficult to learn .	ইংরাজি শেখা কঠিন নয় ।
+He did not work on Friday night .	উনি শুক্রবার রাতে কাজ করেন নি ।
+He did not work on Monday night .	সে সোমবার রাতে কাজ করে নি ।
+How do you write your first name ?	আপনার প্রথম নামটি কিভাবে লেখেন ?
+You've never told anyone about this .	আপনি কোনদিন কাউকে এই ব্যাপারে বলোনি ।
+Is there another way to come here ?	এখানে আসার আর কোন রাস্তা আছে ?
+My mother is always getting angry .	আমার মা সবসময় রেগে যান ।
+My mother is very good at fishing .	আমার মা মাছ ধরাতে খুব ভাল ।
+My father can play golf very well .	আমার বাবা খুব ভাল গলফ খেলতে পারে ।
+My father knows how to make cakes .	আমার বাবা জানে কিভাবে কেক বানাতে হয় ।
+His name was omitted from the list .	তালিকাটি থেকে তার নামটা বাদ গেছে ।
+His neighbor's name is Tom Jackson .	তার প্রতিবেশীর নাম টম জ্যাকসন ।
+She doesn't want to talk about that .	সে ওই বিষয় কথা বলতে চান না ।
+The plane arrived exactly at ten .	বিমানটি ঠিক দশটার সময় পৌছাল ।
+The police warned them to keep back .	পুলিশ তাদের পেছনে যেতে আদেশ দিল ।
+I'm going to study English next year .	আমি পরের বছর ইংরেজি শিখবো ।
+Bread are usually made from wheat .	রুটি সাধারণত ময়দা দিয়ে তৈরি হয় ।
+Patience is essential for a student .	একজন ছাত্রের জন্য ধৈর্য্য অত্যাবশ্যক ।
+The audience was mostly teacher .	দর্শকদের মধ্যে বেশিরভাগই শিক্ষক ছিলেন ।
+The soldiers surrounded the town .	সৈন্যরা শহরটাকে ঘিরে ফেললো ।
+Tom Jackson has written four books .	টম জ্যাকসন চারটে বই লিখেছেন ।
+He almost forgot about the meeting .	সে মিটিঙ্গের কথাটা প্রায় ভুলেই গেছিলো ।
+He certainly plays the guitar well .	সে গীটারটা সত্যিই খুব ভালো বাজায় ।
+Tom has sang more than 300 songs .	টম ৩০০র ও বেশি গান গেয়েছে ।
+Tom reluctantly went to the doctor .	অনিচ্ছা সত্বেও টম ডাক্তারের কাছে গেলো ।
+She seems to be listening carefully .	সে খুব মন দিয়ে শুনছে বলে মনে হচ্ছে ।
+Turn left at the next intersection .	পরের মোড়টায় বামদিকে বেঁকে যাবেন ।
+I can't sleep because of the noise .	আওয়াজের জন্য আমি ঘুমাতে পারছি না ।
+You can't sleep because of the noise .	শব্দের জন্য আমি ঘুমাতে পারছি না ।
+What time does the dining room close ?	খাবার ঘরটা কখন বন্ধ হয় ?
+What time does the next bus leave ?	পরের বাসটা কটার সময় ছাড়ে ?
+When did you begin studying French ?	তুমি ফরাসি পড়া কবে থেকে শুরু করলে ?
+When did you begin studying French ?	আপনি ফরাসি পড়া কবে থেকে শুরু করলেন ?
+Where is the entrance to the school ?	স্কুলে ঢোকার রাস্তাটি কোথায় ?
