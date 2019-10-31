@@ -24,4 +24,4 @@ tensorflow==1.10.0
 termcolor==1.1.0
 torch==0.4.1
 tornado==5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
